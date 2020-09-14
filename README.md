@@ -1,5 +1,5 @@
 # revancha_examen
-Intento de realizar el examen de TD con Vuetify y VueX
+Intento de realizar el examen de TD con Vuetify y VueX :D
 
 ## Caso “Classicmodels Orders”
 
