@@ -3,16 +3,17 @@
     <!-- breadcrumb -->
     <h1>Monitor de Órdenes</h1>
 
-    <v-tabs>
-      <v-tab>Item One</v-tab>
-      <v-tab>Item Two</v-tab>
-      <v-tab>Item Three</v-tab>
-  </v-tabs>
+    <tabs></tabs>
   </div>
 </template>
 
 <script>
+import Tabs from '@/components/Tabs'
+
 export default {
   name: 'Detalle Orden',
+  components: {
+    Tabs,
+  }
 }
 </script>
